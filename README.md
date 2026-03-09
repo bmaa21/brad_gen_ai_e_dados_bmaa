@@ -1,1 +1,1 @@
-# brad_genai-dados_bmaa
+# brad_gen_ai_e_dados_bmaa
