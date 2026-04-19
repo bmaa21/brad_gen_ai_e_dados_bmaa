@@ -13,3 +13,6 @@ Código-fonte deste Desafio de Projeto (Lab) no Google Colab: https://bit.ly/41X
 Live completa onde tiramos as dúvidas deste Lab ao vivo no YouTube da DIO: https://bit.ly/44e9Nrw  
 
 Bons estudos 😉
+
+DESCRIÇÃO
+Aprenda o passo a passo para desenvolver um sistema que combina as tecnologias de Speech-to-Text (voz para texto) e Text-to-Speech (texto para voz) para proporcionar uma conversa multi-idiomas por voz com o ChatGPT, algo possível graças ao Whisper. Para aqueles que ainda não conhecem, o Whisper é uma tecnologia de Reconhecimento Automático de Fala (ASR) da OpenAI, treinado com 680.000 horas de dados multilíngues coletados da Web. Sua arquitetura permite maior robustez a sotaques, ruídos de fundo e linguagem técnica. Ao trabalhar em conjunto com o ChatGPT, um modelo de linguagem, o Whisper possibilita a transcrição e tradução em várias línguas, facilitando a criação de soluções de comunicação inteligentes e eficientes. Utilizando o avançado modelo de reconhecimento de fala Whisper e a API do ChatGPT, ambos da OpenAI, nossa solução é capaz de entender uma pergunta feita por voz e respondê-la de forma inteligente. Além disso, pra fechar com chave de ouro, ainda usamos o Google Text-To-Speech (gTTS) para sintetizar a resposta do ChatGPT em voz 😉
