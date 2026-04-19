@@ -1,4 +1,4 @@
-#Entendendo o Desafio
+Entendendo o Desafio
 Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore o uso da Inteligência Artificial como uma verdadeira ferramenta de aprendizagem ativa. Neste projeto prático, você vai aliar pensamento crítico, curadoria de fontes e organização do conhecimento para criar um Caderno Temático no NotebookLM. Para isso, crie seu próprio repositório no GitHub e adicione este projeto inovador ao seu portfólio 😎
  
 Dica: Crie um repositório do zero no seu GitHub com um nome descritivo para este desafio (ex: miniguia-estudos-notebooklm). Se preferir, você pode usar o próprio README.md do repositório para redigir e organizar todo o seu material!
